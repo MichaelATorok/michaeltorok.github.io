@@ -1,0 +1,56 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+header {
+    background-image: linear-gradient(180deg, rgb(122, 90, 153), #fff);
+}
+.navbar-brand,
+.text-primary {
+    color:rgb(0, 0, 0);
+}
+.nav-link {
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color:rgb(92, 62, 121);
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: rgb(120, 82, 155);
+}
+
+.btn-primary:active {
+    background-color: rgb(89, 64, 112) !important;
+}
+
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 18px;
+}
+
+.purple-bg {
+    background-color: rgb(156, 57, 248);
+    color: #fff;
+}
+
+.text-primary-hero {
+    color:rgb(74, 41, 99);
+}
+
+ion-icon {
+    font-size: 48px;
+    color: rgb(74, 41, 99);
+}
+
+a {
+    text-decoration: none;
+}
+
+@media screen(max-width: 480px) {
+    
+}
